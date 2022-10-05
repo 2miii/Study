@@ -23,7 +23,7 @@ body, input, textarea, select, button, table{
      line-height: 1.5;
 }
 /* 폰트 스타일 초기화*/
-em{
+em, address{
      font-style: normal;
 }
 
